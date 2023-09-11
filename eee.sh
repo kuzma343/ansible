@@ -1,3 +1,3 @@
-ansible-playbook /etc/ansible/playbooks/qqq.yaml --ask-become-pass
+ansible-playbook /etc/ansible/playbooks/eee.yaml --ask-become-pass
 
 
