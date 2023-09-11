@@ -1,2 +1,3 @@
-ansible-playbook eee.yml
+ansible-playbook /etc/ansible/playbooks/qqq.yaml --ask-become-pass
+
 
